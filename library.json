@@ -1,0 +1,22 @@
+{
+  "name": "buttonsap",
+  "version": "1.0.0",
+  "keywords": "buttons",
+  "description": "Buttons with click, doubleclick and longpress for 2, 4 or 6 buttons",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrepalma/smarthome-buttons2ap"
+  },
+  "authors": [
+    {
+      "name": "Andre Palma",
+      "email": "reguila2@gmail.com"
+    },
+	{
+	  "name": "Adapted from the libraries made by Jeff Saltzman"
+	}
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}
